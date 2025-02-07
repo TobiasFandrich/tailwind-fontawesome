@@ -24,11 +24,11 @@
         "release": "commit-and-tag-version"
     },
     "dependencies": {
-        "tailwindcss": "^2.2.19"
+        "tailwindcss": "^4.0.0"
     },
     "devDependencies": {
         "@commitlint/cli": "^19.3.0",
-        "@commitlint/config-conventional": "^19.2.2",
+        "@commitlint/config-conventional": "^19.7.1",
         "commit-and-tag-version": "^12.4.1",
         "conventional-recommended-bump": "^10.0.0",
         "eslint": "^9.7.0",
